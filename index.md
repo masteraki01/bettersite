@@ -1,8 +1,8 @@
 
 ### Large image
-![Branching](/profileimage.jpg)(https://store.steampowered.com/app/2321250/A_Corgis_Cozy_Hike/)
-![Branching](/profileimage.jpg)(https://store.steampowered.com/app/2321250/A_Corgis_Cozy_Hike/)
-![Branching](/profileimage.jpg)(https://store.steampowered.com/app/2321250/A_Corgis_Cozy_Hike/)
+![Branching](/profileimage.jpg)](https://store.steampowered.com/app/2321250/A_Corgis_Cozy_Hike/)
+![Branching](/profileimage.jpg)](https://store.steampowered.com/app/2321250/A_Corgis_Cozy_Hike/)
+![Branching](/profileimage.jpg)](https://store.steampowered.com/app/2321250/A_Corgis_Cozy_Hike/)
 [Link to another page](./another-page.html).
 
 ### Definition lists can be used with HTML syntax.
