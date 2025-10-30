@@ -3,4 +3,4 @@ logo: /profileimage.jpg
 description: 3D Artist | Animator | Illustrator.
 show_downloads: false
 google_analytics:
-//theme: jekyll-theme-minimal//
+theme: jekyll-theme-minimal
